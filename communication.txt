@@ -1,7 +1,10 @@
-<center><h1><i class='fa-solid fa-calendar-check'></i> Informations <i class='fa-solid fa-calendar-check'></i></h1></center>
-<div class='medskip'></div>
+<div class="card-header">
+  <h1><i class='fa-solid fa-calendar-check'></i> Informations <i class='fa-solid fa-calendar-check'></i></h1>
+</div>
+<div class="card-body">
 C’est la rentrée !
 <br>Bienvenue en cours de NSI !
 <div class="medskip"></div>
 
 Consultez régulièrement votre cours pour être au courant des devoirs et TP !
+</div>
