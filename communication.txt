@@ -4,12 +4,13 @@
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  C’est la rentrée !
+  <b>C’est la rentrée !</b>
   <br>Bienvenue en cours de NSI !
   <div class="medskip"></div>
   
   Consultez régulièrement votre cours pour être au courant des devoirs et TP !
 </div>
+
 
 
 
