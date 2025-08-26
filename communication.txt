@@ -9,7 +9,9 @@
   <div class="medskip"></div>
   
   Consultez régulièrement votre cours pour être au courant des devoirs et TP !
+  <br>Entraînez-vous avec sérieux pour devenir des cracks de la programmation !
 </div>
+
 
 
 
