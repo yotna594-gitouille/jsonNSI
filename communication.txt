@@ -1,4 +1,4 @@
-<div class="card-header">
+<div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
   <h1><i class='fa-solid fa-calendar-check'></i> Informations <i class='fa-solid fa-calendar-check'></i></h1>
 </div>
 <div class="card-body">
@@ -8,4 +8,5 @@
   
   Consultez régulièrement votre cours pour être au courant des devoirs et TP !
 </div>
+
 
