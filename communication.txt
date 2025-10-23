@@ -1,15 +1,16 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
   <center>
-    <h1><i class="fa-solid fa-laptop"></i> TP en approche !</h1>
+    <h2><i class="fa-solid fa-laptop"></i>&nbsp; TP en approche !</h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  Déjà, profitez bien de vos vacances ! <i class="fa-solid fa-gamepad"></i>
+  Déjà, profitez bien de vos vacances ! &nbsp;<i class="fa-solid fa-gamepad"></i>
 <div class="medskip"></div>
   À la rentrée aura lieu le premier travail de groupe qui portera sur les <b>variables</b>, les <b>conditions</b> et les <b>boucles</b> en Python.
 <div class="medskip"></div>
   Pensez à bien être à jour sur les exercices et les méthodes utilisées !
 </div>
+
 
 
 
