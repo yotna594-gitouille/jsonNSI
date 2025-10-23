@@ -1,16 +1,16 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
   <center>
-    <h1><i class='fa-solid fa-calendar-check'></i> Informations <i class='fa-solid fa-calendar-check'></i></h1>
+    <h1><i class="fa-solid fa-laptop"></i>Premier TP en approche !<i class="fa-solid fa-laptop"></i></h1>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  <b>C’est la rentrée !</b>
-  <br>Bienvenue en cours de NSI !
-  <div class="medskip"></div>
-  
-  Consultez régulièrement votre cours pour être au courant des devoirs et TP !
-  <br>Entraînez-vous avec sérieux pour devenir des cracks de la programmation !
+  Déjà, profitez bien de vos vacances ! <i class="fa-solid fa-gamepad"></i>
+<div class="medskip"></div>
+  À la rentrée aura lieu le premier travail de groupe qui portera sur les <b>variables</b>, les <b>conditions</b> et les <b>boucles</b> en Python.
+<div class="medskip"></div>
+  Pensez à bien être à jour sur les exercices et les méthodes utilisées !
 </div>
+
 
 
 
