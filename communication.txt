@@ -1,15 +1,16 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
   <center>
-    <h2><i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i>&nbsp; TP en approche !</h2>
+    <h2><i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i>&nbsp; Dernière note !</h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  Déjà, profitez bien de vos vacances ! &nbsp;<i class="fa-solid fa-gamepad"></i>
-<div class="medskip"></div>
-  À la rentrée aura lieu le premier travail de groupe qui portera sur les <b>variables</b>, les <b>conditions</b> et les <b>boucles</b> en Python.
-<div class="medskip"></div>
-  Pensez à bien être à jour sur les exercices et les méthodes utilisées !
+  La fin du trimestre approche !
+  <div class="medskip"></div>
+  Nous allons terminer les exercices sur les fonctions puis vous serez évalué·e·s sur les notions de cours avec une interrogation écrite sur les fonctions.
+  <div class="medskip"></div>
+  À priori, le travail de groupe sur les fonctions devrait avoir lieu au début du deuxième trimestre, à priori...
 </div>
+
 
 
 
