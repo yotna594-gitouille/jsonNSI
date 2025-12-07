@@ -1,5 +1,5 @@
 <!-- <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);"> -->
-<div class="card-header" style="background: linear-gradient(-45deg, red 9%, white 11%, white 19%, red 21%, red 29%, white 31%, white 39%, red 41%, red 49%, white 51%, white 59%, red 61%, red 69%, white 71%, white 79%, red 81%, red 89%, white 91%, white 100%);">
+<div class="card-header" style="background: linear-gradient(-45deg, red 10%, white 11%, white 20%, red 21%, red 30%, white 31%, white 40%, red 41%, red 50%, white 51%, white 60%, red 61%, red 70%, white 71%, white 80%, red 81%, red 90%, white 91%, white 100%);">
 
   <!-- <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> -->
   <center>
@@ -13,6 +13,7 @@
   <div class="medskip"></div>
   Pendant les vacances, si vous avez le temps, pensez à pratiquer la programmation, peu importe le langage utilisé, même s’il s’agit du jeu Farmer Got Replaced, tout est bon à prendre ! Il faut que vous soyiez les plus autonomes possibles en vue du projet de fin d’année qui vous permettra de créer quelque chose de A à Z par vous-mêmes.
 </div>
+
 
 
 
