@@ -3,7 +3,7 @@
 
   <!-- <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> -->
   <center>
-    <h2><b style="-webkit-text-stroke-width: 1px; -webkit-text-stroke-color: white;"><i class="fa-solid fa-candy-cane"></i> &nbsp;Bientôt Noël ! &nbsp;<i class="fa-solid fa-gift"></i></b></h2>
+    <h2><b><i class="fa-solid fa-candy-cane"></i> &nbsp;Bientôt Noël ! &nbsp;<i class="fa-solid fa-gift"></i></b></h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
@@ -13,6 +13,7 @@
   <div class="medskip"></div>
   Pendant les vacances, si vous avez le temps, pensez à pratiquer la programmation, peu importe le langage utilisé, même s’il s’agit du jeu Farmer Got Replaced, tout est bon à prendre ! Il faut que vous soyiez les plus autonomes possibles en vue du projet de fin d’année qui vous permettra de créer quelque chose de A à Z par vous-mêmes.
 </div>
+
 
 
 
