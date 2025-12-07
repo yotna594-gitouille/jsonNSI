@@ -1,15 +1,17 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
+  <!-- <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> -->
   <center>
-    <h2><i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i>&nbsp; Dernière note !</h2>
+    <h2><span style="background: linear-gradient(-45deg, red 10%, white 10%, white 20%, red 20%, red 30%, white 30%, white 40%, red 40%, red 50%, white 50%, white 60%, red 60%, red 70%, white 70%, white 80%, red 80%, red 90%, white 90%, white 100%); padding: 5px; border-radius: 5px;"><i class="fa-solid fa-candy-cane"></i> &nbsp;Bientôt Noël ! &nbsp;<i class="fa-solid fa-gift"></i></span></h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  La fin du trimestre approche !
+  Après tout ce bon travail du premier trimestre, il va être temps de vous accorder un peu de repos ! 
   <div class="medskip"></div>
-  Nous allons terminer les exercices sur les fonctions puis vous serez évalué·e·s sur les notions de cours avec une interrogation écrite sur les fonctions.
+  Nous allons tranquillement terminer les exercices sur la logique pendant les 3 séances qui nous séparent des vacances. En fonction de l’avancement, vous aurez une interrogation écrite soit juste avant les vacances soit à la rentrée (mais sans pression, nous ne sommes pas du tout en retard sur le programme, vous vous en sortez très bien).
   <div class="medskip"></div>
-  À priori, le travail de groupe sur les fonctions devrait avoir lieu au début du deuxième trimestre, à priori...
+  Pendant les vacances, si vous avez le temps, pensez à pratiquer la programmation, peu importe le langage utilisé, même s’il s’agit du jeu Farmer Got Replaced, tout est bon à prendre ! Il faut que vous soyiez les plus autonomes possibles en vue du projet de fin d’année qui vous permettra de créer quelque chose de A à Z par vous-mêmes.
 </div>
+
 
 
 
