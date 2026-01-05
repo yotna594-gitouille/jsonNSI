@@ -1,17 +1,14 @@
-<!-- <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);"> -->
-<div class="card-header" style="background: linear-gradient(-45deg, red 10%, white 11%, white 20%, red 21%, red 30%, white 31%, white 40%, red 41%, red 50%, white 51%, white 60%, red 61%, red 70%, white 71%, white 80%, red 81%, red 90%, white 91%, white 100%);">
+<div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
 
   <!-- <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> -->
   <center>
-    <h2><b><i class="fa-solid fa-candy-cane"></i> &nbsp;Bientôt Noël ! &nbsp;<i class="fa-solid fa-gift"></i></b></h2>
+    <h2><b>Et on y retourne !</b></h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  Après tout ce bon travail du premier trimestre, il va être temps de vous accorder un peu de repos ! 
+  C'est la deuxième moitié de l'année. Comme vous avez pu voir, une grande partie du programme a déjà été traitée.
   <div class="medskip"></div>
-  Nous allons tranquillement terminer les exercices sur la logique pendant les 3 séances qui nous séparent des vacances. En fonction de l’avancement, vous aurez une interrogation écrite soit juste avant les vacances soit à la rentrée (mais sans pression, nous ne sommes pas du tout en retard sur le programme, vous vous en sortez très bien).
-  <div class="medskip"></div>
-  Pendant les vacances, si vous avez le temps, pensez à pratiquer la programmation, peu importe le langage utilisé, même s’il s’agit du jeu Farmer Got Replaced, tout est bon à prendre ! Il faut que vous soyiez les plus autonomes possibles en vue du projet de fin d’année qui vous permettra de créer quelque chose de A à Z par vous-mêmes.
+  Nous allons continuer à travailler le programme puis, sur la fin de l'année, vous vous lancerez sur votre projet.
 </div>
 
 
