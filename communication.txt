@@ -1,6 +1,6 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
 
-  <!-- <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> -->
+  <i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i>
   <center>
     <h2><b>Et on y retourne !</b></h2>
   </center>
@@ -10,6 +10,7 @@
   <div class="medskip"></div>
   Nous allons continuer à travailler le programme puis, sur la fin de l'année, vous vous lancerez sur votre projet.
 </div>
+
 
 
 
