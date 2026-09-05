@@ -4,7 +4,7 @@
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  Plus dans une simple matière, en NSI, vous devrez pratiquer et encore pratiquer pour comprendre, maîtriser les notions et vous améliorer.
+  Plus que dans une simple matière, en NSI, vous devrez pratiquer et encore pratiquer pour comprendre, maîtriser les notions et vous améliorer.
   <br><br>Avec du temps et du travail, vous serez très à l’aise et la matière sera une partie de plaisir.
   <br>Bon courage !
 </div>
