@@ -1,12 +1,12 @@
 <div class="card-header" style="background-color: rgba(104, 211, 145, 0.467);">
   <center>
-    <h2><i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> <b>Dernière ligne droite</b></h2>
+    <h2><i class="fa-solid fa-laptop" style="position:relative; top: 2px"></i> <b>Bienvenue en NSI</b></h2>
   </center>
 </div>
 <div class="card-body" style="height:fit-content">
-  Plus que quelques semaines avant la fin de l'année. Il ne nous reste que peu de chapitres à voir, comme le réseau, la gestion des modules en Python, ou encore de l'algorithmique. 
-  <div class="medskip"></div>
-  Du reste, vous travaillerez de plus en plus sur votre projet !
+  Plus dans une simple matière, en NSI, vous devrez pratiquer et encore pratiquer pour comprendre, maîtriser les notions et vous améliorer.
+  <br><br>Avec du temps et du travail, vous serez très à l’aise et la matière sera une partie de plaisir.
+  <br>Bon courage !
 </div>
 
 
